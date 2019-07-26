@@ -93,20 +93,7 @@ main h3{
 .main_div a:hover{
     text-decoration:underline;
 }
-section{
-    width: 100%;
-    height: auto;
 
-
-}
-.section_son{
-    height: 300px;
-    background-color: #e54077;
-    border-bottom: 3px solid  #ffffff;
-    border-right: 3px solid  #ffffff;
-    box-sizing: border-box;
-    float: left;
-}
 .iphonexr{
     width: 100%;
     /*height: 580px;*/
@@ -131,6 +118,237 @@ section{
     margin: 0 auto;
     background: url("../img/watch__csqqcayzqueu_large (1).jpg") no-repeat;
 }
+section{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    overflow: hidden;
+}
+.section_son{
+    height: 300px;
+    background-color: #FAFAFA;
+    border-bottom: 3px solid  #ffffff;
+    border-right: 3px solid  #ffffff;
+    box-sizing: border-box;
+    float: left;
+}
+.ss_word1{
+    width: 100%;
+    height: 180px;
+    overflow: hidden;
+}
+.ss_word1_1{
+    width: 448px;
+    line-height: 44px;
+    font-size: 36px;
+    color: #111111;
+    margin:  50px auto 0 ;
+}
+.ss_woed1_2{
+    width: 100%;
+    height: 21px;
+    text-align: center;
+    line-height: 21px;
+    margin-top: 20px;
+}
+.ss_woed1_2 a{
+    color: #0070c9;
+    font-size: 17px;
+}
+.ss_word2{
+    width: 500px;
+    height: 397px;
+    margin: 0 auto;
+    background:url("../img/tile__cauwwcyyn9hy_large (1).jpg") no-repeat -385px -155px;
+}
+
+.tupian666{
+    background:url("../img/macbook_pro_performance__dpg5ujd89nyq_large.jpg") no-repeat -385px -155px;
+}
+
+.adhsggfjdfgvydghjn{
+    background:url("../img/macbook_air__knzp0i282eyy_large.jpg") no-repeat -385px -155px;
+}
+.bottom_1{
+    width: 100%;
+    /*height: 580px;*/
+    background-color: #F2F2F2;
+}
+.bottom_1_nk{
+    max-width: 980px;
+    /*height: 560px;*/
+    padding: 0 22px;
+    margin: 0 auto;
+    /*background-color: #0070c9;*/
+}
+.bottom_nk1{
+    width: 100%;
+    /*height: 105px;*/
+    padding: 17px 0 11px;
+    border-bottom: 1px solid #d6d6d6;
+    font-size: 12px;
+    color: #888888;
+}
+.bottom_nk2{
+    width: 100%;
+    height: 280px;
+    padding-top: 20px;
+}
+.bottom_nk3{
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+.bottom_nk3_top{
+    width: 100%;
+    height: 16px;
+    margin-bottom: 10px;
+    font-size: 12px;
+    color: #333;
+    line-height: 16px;
+}
+.bottom_nk3_li{
+    width: 100%;
+    height: 16px;
+    margin-bottom: 10px;
+    font-size: 12px;
+    color: #333;
+    line-height: 16px;
+}
+.bottom_nk3_li a:hover{
+    text-decoration:underline;
+}
+.bottom_nk3_li a{
+    color: #333;
+}
+.bottom_nk4{
+    width: 100%;
+    height: 58px;
+    padding: 34px 0 21px;
+}
+.bottom_nk4_1{
+    width: 100%;
+    height: 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #b6b6b6;
+    margin-bottom: 7px;
+    font-size: 12px;
+    color: #888;
+}
+.bottom_nk4_1 a{
+    color: #0070c9;
+}
+.bottom_nk4_1 a:hover{
+    text-decoration: underline;
+}
+.bottom_nk4_2{
+    width: 100%;
+    height: 26px;
+    font-size: 12px;
+    color: #888;
+    line-height: 26px;
+}
+.bottom_nk4_2 a{
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #333;
+}
+.bottom_nk4_2 a:hover{
+    text-decoration: underline;
+}
+.bottom_nk4_3{
+    width: 100%;
+    height: 16px;
+    font-size: 12px;
+    color: #888;
+    line-height: 16px;
+    margin-top: -10px;
+    padding-bottom: 20px;
+}
+.bottom_nk4_3 a{
+    color: #666;
+}
+.bottom_nk4_3 a:hover{
+    text-decoration: underline;
+}
+.b2ottom{
+    width: 100%;
+    background-color: #F2F2F2;
+    display: none;
+}
+.b2ottom_1{
+    width: 100%;
+    height: 259px;
+    padding-top: 30px;
+    border-top: 1px solid #b6b6b6;
+}
+.b2ottom_1_1{
+    width: 100%;
+    height: 16px;
+    padding: 10px 0;
+    border-bottom: 1px solid #b6b6b6;
+    font-size: 12px;
+    color: #333;
+    line-height: 16px;
+    position: relative;
+}
+.b2ottom_1_1:hover{
+    cursor: pointer;
+}
+.b2ottom_1_1:hover .bottom2_span{
+    transform: rotate(45deg);
+}
+.bottom1_span{
+    display: block;
+    float: left;
+}
+.bottom2_span{
+    display: block;
+    float: right;
+    transition: all 0.3s linear;
+}
+.b2ottom_1_1:hover .bottom_posdfag{
+    display: block;
+}
+.bottom_posdfag{
+    width: 100%;
+    position: absolute;
+    top:35px;
+    background-color: #f2f2f2;
+    display: none;
+    z-index: 5;
+}
+.bottom_posdfag a{
+    display: block;
+    font-size: 12px;
+    height: 16px;
+    padding: 6px 14px;
+    background-color: #f2f2f2;
+    color: #333333;
+}
+.bottom_posdfag a:hover{
+    text-decoration: underline;
+}
+.b2otomfajdg{
+    width: 100%;
+    font-size: 12px;
+    color: #333333;
+    height: 16px;
+    line-height: 16px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.b2otomfajdg a{
+    color: #333333;
+    margin-right: 10px;
+}
+.b2otomfajdg a:hover{
+    text-decoration: underline;
+}
+
+
+
+
 
 
 
@@ -180,9 +398,9 @@ section{
         background-size:716px   295px;
     }
     .Watch_img{
-    width: 422px;
-    height: 314px;
-    margin: 0 auto;
+        width: 422px;
+        height: 314px;
+        margin: 0 auto;
         background-size:422px   314px;
 }
 
@@ -209,6 +427,13 @@ section{
         width: 220px;
         height: 309px;
         background: url("../img/main__bmngiblug0mq_small.jpg");
+    }
+    .Watch_img{
+        width: 422px;
+        height: 314px;
+        margin: 0 auto;
+        background: url("../img/watch__csqqcayzqueu_large.jpg");
+        background-size: 422px 314px;
     }
 }
 @media screen and (min-width: 1000px) {
@@ -237,10 +462,46 @@ section{
     .section_son{
         width: 100%;
     }
+    .bottom_1{
+        display: none;
+    }
+    .b2ottom{
+        display: block;
+    }
 }
-@media screen and (min-width: 768px){
+@media screen and (min-width: 736px){
     .section_son{
         width: 50%;
+        height: 580px;
+    }
+
+}
+@media screen and (max-width: 1068px){
+    .section_son{
+        height: 450px;
+    }
+    .ss_word2{
+        width: 360px;
+        height: 250px;
+        margin: 0 auto;
+        background:url("../img/tile__cauwwcyyn9hy_medium.jpg") no-repeat -80px -160px;
+        /*background-size: cover;*/
+        background-color: #fafafa;
+    }
+    .tupian666{
+        background:url("../img/macbook_pro_performance__dpg5ujd89nyq_medium.jpg") no-repeat -80px -160px;
+    }
+
+    .adhsggfjdfgvydghjn{
+        background:url("../img/macbook_air__knzp0i282eyy_medium.jpg") no-repeat 30px  50px;
+    }
+    .ss_word1_1{
+        width: 360px;
+        line-height: 44px;
+        font-size: 30px;
+        color: #111111;
+        margin:  50px auto 0 ;
+        text-align: center;
     }
 }
 
